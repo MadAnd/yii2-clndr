@@ -1,0 +1,37 @@
+{
+    "name": "madand/yii2-clndr",
+    "description": "cldnr asset for Yii2",
+    "keywords": [
+        "yii",
+        "yii2",
+        "cldnr"
+    ],
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "homepage": "https://github.com/MadAnd/yii2-clndr",
+    "authors": [
+        {
+            "name": "Andriy Kmit'",
+            "email": "dev@madand.net",
+            "homepage": "https://github.com/MadAnd",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0",
+        "madand/yii2-momentjs": "*",
+        "madand/yii2-underscore": "*",
+        "bower-asset/cldnr": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "madand\\clndr\\": "src"
+        }
+    },
+    "extra": {
+        "asset-installer-paths": {
+            "npm-asset-library": "vendor/npm",
+            "bower-asset-library": "vendor/bower"
+        }
+    }
+}
