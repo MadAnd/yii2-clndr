@@ -11,9 +11,9 @@ use yii\web\AssetBundle;
 
 class ClndrAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/bower/cldnr';
+    public $sourcePath = '@vendor/bower/clndr';
     public $js = [
-        'cldnr.min.js',
+        'clndr.min.js',
     ];
     public $depends = [
         'yii\web\JqueryAsset',

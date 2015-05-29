@@ -1,10 +1,10 @@
 {
     "name": "madand/yii2-clndr",
-    "description": "cldnr asset for Yii2",
+    "description": "clndr asset for Yii2",
     "keywords": [
         "yii",
         "yii2",
-        "cldnr"
+        "clndr"
     ],
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
@@ -21,7 +21,7 @@
         "yiisoft/yii2": "~2.0.0",
         "madand/yii2-momentjs": "*",
         "madand/yii2-underscore": "*",
-        "bower-asset/cldnr": "*"
+        "bower-asset/clndr": "*"
     },
     "autoload": {
         "psr-4": {

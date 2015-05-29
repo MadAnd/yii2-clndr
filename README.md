@@ -1,5 +1,5 @@
-# cldnr asset for Yii2
-Provides the asset bundle for easy integration of [cldnr](https://github.com/kylestetz/CLNDR) into your Yii2 application.
+# CLNDR asset for Yii2
+Provides the asset bundle for easy integration of [CLNDR](https://github.com/kylestetz/CLNDR) into your Yii2 application.
 
 
 ## Installation
